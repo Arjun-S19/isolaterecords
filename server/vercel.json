@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "routes": [
+      {
+        "src": "/api/latest-video",
+        "methods": ["GET"],
+        "headers": {
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    ]
+  }
+  
