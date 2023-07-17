@@ -4,6 +4,8 @@ import agp from "../assets/images/agp high.png";
 import arsunol from "../assets/images/arsunol high.png";
 import aero from "../assets/images/aero high.png";
 import keta from "../assets/images/keta high.png";
+import acid from "../assets/images/acid high.png";
+import emlex from "../assets/images/emlex high.png";
 const Creators = () => {
   const [creatorsData, setCreatorsData] = useState([
     {
@@ -20,15 +22,27 @@ const Creators = () => {
     },
     {
       img: aero,
-      name: "aero",
+      name: "Aero",
       post: "Producer",
       link: "https://www.youtube.com/@prodAero",
     },
     {
       img: keta,
-      name: "keta",
+      name: "Keta",
       post: "Producer",
       link: "https://www.youtube.com/@999keta",
+    },
+    {
+      img: acid,
+      name: "Acid",
+      post: "Producer",
+      link: "https://www.youtube.com/@7Shadowx",
+    },
+    {
+      img: emlex,
+      name: "Emlex",
+      post: "Producer",
+      link: "https://www.youtube.com/@Emlex",
     },
   ]);
   return (
