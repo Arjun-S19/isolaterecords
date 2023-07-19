@@ -14,7 +14,7 @@ const Home = () => {
                     WebkitTextStroke: "2px rgba(255, 255, 255, 0.5)",
                 }}
             >
-                isolate records
+                Isolate Records
             </h1>
 
             <p className="font_robotoMono  text-2xl 2xl:text-2xl  w-4/5 mx-auto  2xl:w-10/12  font-normal">
