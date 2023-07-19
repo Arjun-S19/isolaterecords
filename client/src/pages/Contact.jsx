@@ -9,7 +9,7 @@ const Contact = () => {
     },
     {
       label: "Instagram",
-      value: "IsolateRecordsOfficial",
+      value: "@IsolateRecordsOfficial",
       link: "https://www.instagram.com/isolaterecordsofficial/",
     },
     {
@@ -24,7 +24,7 @@ const Contact = () => {
     },
     {
       label: "Tiktok",
-      value: "IsolateRecordsOfficial",
+      value: "@IsolateRecordsOfficial",
       link: "https://www.tiktok.com/@isolaterecordsofficial",
     },
   ]);
