@@ -6,7 +6,6 @@ import aero from "../assets/images/aero high.png";
 import keta from "../assets/images/keta high.png";
 import acid from "../assets/images/acid high.png";
 import emlex from "../assets/images/emlex high.png";
-import snek from "../assets/images/snek high.png";
 import raiden from "../assets/images/raiden high.png";
 const Creators = () => {
   const [creatorsData, setCreatorsData] = useState([
@@ -45,12 +44,6 @@ const Creators = () => {
       name: "Emlex",
       post: "Producer",
       link: "https://www.youtube.com/@Emlex",
-    },
-    {
-      img: snek,
-      name: "Snek",
-      post: "Producer",
-      link: "https://open.spotify.com/artist/1M2hzzkMbuGGj0G2yQFPTF?si=AAjwO2g_SZiiFJx1TBF7Qw",
     },
     {
       img: raiden,
