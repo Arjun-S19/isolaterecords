@@ -7,6 +7,7 @@ import keta from "../assets/images/keta high.png";
 import acid from "../assets/images/acid high.png";
 import emlex from "../assets/images/emlex high.png";
 import raiden from "../assets/images/raiden high.png";
+import tenxten from "../assets/images/tenxten high.png";
 const Creators = () => {
   const [creatorsData, setCreatorsData] = useState([
     {
@@ -38,6 +39,12 @@ const Creators = () => {
       name: "Acid",
       post: "Producer",
       link: "https://www.youtube.com/@7Shadowx",
+    },
+    {
+      img: tenxten,
+      name: "TenxTen",
+      post: "Artist",
+      link: "https://www.linktr.ee/lmaotenn",
     },
     {
       img: emlex,
