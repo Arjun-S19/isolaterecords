@@ -12,20 +12,20 @@ const About = () => {
                 <div className="ml-10 space-y-5">
                     <p className="text-[2.25rem]">
                         <span className="font_planetKosmos text-[3rem]">
-                            400
+                            600
                         </span>{" "}
                         passionate student content creators in its community
                     </p>
                     <p className="text-[2.25rem]">
                         mentored{" "}
                         <span className="font_planetKosmos text-[3rem]">
-                            65{" "}
+                            75{" "}
                         </span>
                         aspiring student producers
                     </p>
                     <p className="text-[2.25rem]">
                         hosted{" "}
-                        <span className="font_planetKosmos text-[3rem]">2</span>{" "}
+                        <span className="font_planetKosmos text-[3rem]">3</span>{" "}
                         community-wide events for creators to show off their
                         skills
                     </p>
