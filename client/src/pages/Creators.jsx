@@ -32,7 +32,7 @@ const Creators = () => {
       img: keta,
       name: "Keta",
       post: "Producer",
-      link: "https://www.youtube.com/@999keta",
+      link: "https://www.youtube.com/@slowdownketa",
     },
     {
       img: acid,
