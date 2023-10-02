@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import acid from "../assets/images/acid.png";
 import keta from "../assets/images/keta.png";
 import aero from "../assets/images/aero.png";
+import agp from "../assets/images/agp.png";
+import tenxten from "../assets/images/tenxten.png";
 import YouTubeIntegration from "../components/YouTubeIntegration";
 import RandomYoutubeVideo from "../components/RandomYoutubeVideo";
 const Home = () => {
@@ -49,19 +51,19 @@ const Home = () => {
 
                 <div className="flex items-center justify-around w-9/12 mx-auto ">
                     <div className="space-y-3">
+                        <img src={tenxten} alt="tenxten" className="" />
+                        <p> </p>
+                        <Link to="https://www.linktr.ee/lmaotenn"  target="_blank"  className="text-3xl  underline decoration-2">TenxTen</Link>
+                    </div>
+                    <div className="space-y-3">
                         <img src={keta} alt="keta" className="" />
                         <p> </p>
-                        <Link to="https://www.youtube.com/@999keta"  target="_blank"  className="text-3xl  underline decoration-2">Keta</Link>
+                        <Link to="https://www.youtube.com/@slowdownketa"  target="_blank"  className="text-3xl  underline decoration-2">Keta</Link>
                     </div>
                     <div className="space-y-3">
-                        <img src={aero} alt="aero" className="" />
+                        <img src={agp} alt="agp" className="" />
                         <p> </p>
-                        <Link to="https://www.youtube.com/@prodAero"  target="_blank"  className="text-3xl  underline decoration-2">Aero</Link>
-                    </div>
-                    <div className="space-y-3">
-                        <img src={acid} alt="acid" className="" />
-                        <p> </p>
-                        <Link to="https://www.youtube.com/@7Shadowx"  target="_blank"  className="text-3xl  underline decoration-2">Acid</Link>
+                        <Link to="https://www.youtube.com/@agpbeats6916"  target="_blank"  className="text-3xl  underline decoration-2">AGP</Link>
                     </div>
                     {/* <YouTubeIntegration/> */}
                 </div>
