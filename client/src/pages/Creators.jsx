@@ -9,6 +9,7 @@ import emlex from "../assets/images/emlex high.png";
 import raiden from "../assets/images/raiden high.png";
 import tenxten from "../assets/images/tenxten high.png";
 import ilysaucy from "../assets/images/ilysaucy high.png";
+import luminate from "../assets/images/luminate high.png";
 const Creators = () => {
   const [creatorsData, setCreatorsData] = useState([
     {
@@ -64,6 +65,12 @@ const Creators = () => {
       name: "Raiden",
       post: "Producer",
       link: "https://www.youtube.com/@ProdRAIDEN",
+    },
+    {
+      img: luminate,
+      name: "Luminate",
+      post: "Producer",
+      link: "https://www.youtube.com/@Prod.Luminate",
     },
   ]);
   return (
