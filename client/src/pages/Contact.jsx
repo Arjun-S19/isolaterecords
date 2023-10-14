@@ -24,8 +24,8 @@ const Contact = () => {
     },
     {
       label: "Tiktok",
-      value: "@IsolateRecordsOfficial",
-      link: "https://www.tiktok.com/@isolaterecordsofficial",
+      value: "@IsolateRecords",
+      link: "https://www.tiktok.com/@isolaterecords",
     },
   ]);
   return (
