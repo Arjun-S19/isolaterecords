@@ -1,22 +1,22 @@
 import React, { useState } from "react";
 import agp from "../assets/images/agp high.png";
-import arsunol from "../assets/images/arsunol high.png";
+import arsunol from "../assets/images/arjun.png";
 import hillary from "../assets/images/hillary.png";
 const Staff = () => {
   const [staffData, setStaffData] = useState([
     {
       img: agp,
-      name: "AGP",
+      name: "Advaita G. alias AGP",
       post: "Director of Administration",
       link: "/",
     },
     {
       img: arsunol,
-      name: "Arsunol",
+      name: "Arjun S. alias Arsunol",
       post: "Director of Operations",
       link: "/",
     },
-    { img: hillary, name: "Hillary", post: "Director of Marketing", link: "/" },
+    { img: hillary, name: "Hillary C. alias Hillary", post: "Director of Marketing", link: "/" },
   ]);
   return (
     <div className="pt-10 pb-60 mx-auto relative z-50 w-full">
