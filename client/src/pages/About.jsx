@@ -35,7 +35,7 @@ const About = () => {
             </div>
 
             <Container
-                title="What is Isolate Records:"
+                title="What is Isolate Records?"
                 desc={
                     <div>
                     Isolate Records is a registered 509(a)(2) non-profit community label dedicated to developing student content creators' skills and creating opportunities for them in the music industry. We provide the aid and opportunities for student creators to excel, connect, and learn. Join our community{" "}
