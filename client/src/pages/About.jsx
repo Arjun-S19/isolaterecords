@@ -51,13 +51,13 @@ const About = () => {
                 desc={`Isolate Records was created mid 2022, a period of chaos in the world
           from the fading COVID-19 pandemic to other issues like Russia's war
           against Ukraine and Elon Musk's acquisition of Twitter. AGP, a high
-          school junior, and OfficialBobForces, a high school sophomore, noticed
-          how music was a big part of their community and how many student
-          artists did not know how to grow their content both in popularity and
+          school junior, Arsunol, a high school junior, and OfficialBobForces, 
+          a high school sophomore, noticed how music was a big part of their community 
+          and how many student artists did not know how to grow their content both in popularity and
           in skill, they decided to create "Isolate Records", a record label
           that would sign various student artists to promote their work, help
           them connect with more students, and develop their overall passions in
-          music. Along with Arsunol, Poisonfy, and Skparab1, AGP and
+          music. Along with Poisonfy and Skparab1, AGP, Arsunol, and 
           OfficialBobForces decided to kick off Isolate Records by building
           infrastructure, connecting with more student artists, and developing
           their own passions in music throughout the journey. Three months of
