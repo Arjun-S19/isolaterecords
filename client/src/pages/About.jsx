@@ -39,7 +39,7 @@ const About = () => {
                 desc={
                     <div>
                     Isolate Records is a registered 509(a)(2) non-profit community label dedicated to developing student content creators' skills and creating opportunities for them in the music industry. We provide the aid and opportunities for student creators to excel, connect, and learn. Join our community{" "}
-                    <a href='http://discord.gg/isolaterecords' style={{ color: '#00C112' }}>
+                    <a href='https://discord.gg/qav5EzEneb' style={{ color: '#00C112' }}>
                         <strong><u>here</u></strong>
                     </a>.
                     </div>
