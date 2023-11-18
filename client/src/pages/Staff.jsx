@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import agp from "../assets/images/agp high.png";
-import arsunol from "../assets/images/arjun.png";
+import arsunol from "../assets/images/arsunol high.png";
 import hillary from "../assets/images/hillary.png";
 const Staff = () => {
   const [staffData, setStaffData] = useState([
